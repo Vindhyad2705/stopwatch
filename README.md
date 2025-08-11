@@ -29,15 +29,7 @@ stopwatch/
 
 │── README.md    # Project details
 
-🔗 Links
-GitHub Repository: https://github.com/Vindhyad2705/stopwatch
-
-Live Project: https://vindhyad2705.github.io/stopwatch/
-
 ▶️ How to Run Locally
-Clone the repository:
-
-git clone https://github.com/Vindhyad2705/stopwatch.git
 
 Open the folder.
 Double-click index.html to open it in your browser.
